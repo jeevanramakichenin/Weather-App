@@ -1,4 +1,4 @@
-#🌤️ **Weather App**
+# 🌤️ **Weather App**
 Ce projet est une application météo qui utilise l'API OpenWeather pour afficher les conditions météorologiques en temps réel. Ce projet m'a permis de me familiariser avec SwiftUI et les appels réseau.
 
 <br>
