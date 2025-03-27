@@ -3,7 +3,7 @@ Ce projet est une application météo qui utilise l'API OpenWeather pour affiche
 
 <br>
 <p align="center">
-    <img src="./images/WeatherApp0.jpg" alt="Weather App - Écran d'accueil" width="250" />
+    <img src="./images/WeatherApp1.jpg" alt="Weather App - Écran d'accueil" width="250" />
     <img src="./images/WeatherApp2.jpg" alt="Weather App - Météo actuelle" width="250" />
 </p>
 <br>
